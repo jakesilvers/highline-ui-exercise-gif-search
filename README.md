@@ -12,7 +12,7 @@ you want.
 
 ## Setup
 * Fork this repository and clone it locally.
-* Run npm install to install all dependencies.
+* Run `npm install` to install all dependencies.
 * You'll need to create an account with giphy to get an api key. Open `src/api.js` and follow the instructions on how
 to do that.
 * Run `npm start` to start the app.
