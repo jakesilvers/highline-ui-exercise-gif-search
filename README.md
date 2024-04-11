@@ -39,13 +39,6 @@ We have provided some wireframes in the `wireframes` directory. Please refer to 
   search term from the text input box.
   * The api.js file already has a function for searching filled out for you to save you
   some time. It will return the full response from the API you can use that one or write your own.
-* In the results section show all the images returned from the search.
-  * In the interest of saving time this is a snippet example of how to display gifs, this specific thing
-  could take away time from what is actually important. Feel free to use it or not.
-  ```html
-          <video autoPlay loop>
-            <source src={gif_url.mp4} type="video/mp4" />
-          </video>
 * If there are no results display a message saying so in the results area.
 
 ### Adding to favorites
